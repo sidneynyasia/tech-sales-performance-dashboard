@@ -24,7 +24,7 @@ This project was developed to evaluate sales performance across retail stores, g
 
 ### 1. Executive Overview
 
-![Executive Overview](screenshots/executive_overview.png)
+![Executive Overview](screenshots/executive_overeview.png)
 
 Provides a nationwide summary of revenue, units sold, protection attachment, revenue attainment, and overall performance, including regional comparisons and monthly sales trends.
 
