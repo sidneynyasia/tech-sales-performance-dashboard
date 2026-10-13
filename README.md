@@ -48,6 +48,42 @@ Compares employee performance using sales attainment, protection attachment rate
 4. Created interactive visuals and slicers to explore results by geographic location, store, employee, and month.
 5. Evaluated performance differences to identify potential operational improvements.
 
+
+## Key Findings & Business Recommendations
+
+The following findings are based on simulated nationwide retail sales and employee performance data for S&S Cellular.
+
+### 1. Regional Revenue Performance
+
+**Finding:** The Southeast generated approximately $1.07 billion in revenue, followed by the Midwest at $840 million. New England generated approximately $140 million.
+
+**Recommendation:** Evaluate differences in store count, sales volume, and employee productivity across regions. Identify successful practices in higher-performing markets that could be adapted to other locations.
+
+### 2. Protection Attachment Opportunities
+
+**Finding:** The nationwide average protection attachment rate was 32.2%, highlighting opportunities to evaluate and improve protection sales performance.
+
+**Recommendation:** Implement targeted employee coaching, sales practice sessions, and management observations. Consider testing promotional incentives, such as a 20% discount on protection plans for six months, while monitoring attachment rates and profitability.
+
+### 3. Monthly Store Performance
+
+**Finding:** In January, 60.73% of stores were classified as Near Target, 24.60% as Below Target, and 14.67% as On / Above Target.
+
+**Recommendation:** Prioritize below-target stores for performance reviews and targeted coaching. Track monthly progress to evaluate whether interventions improve performance.
+
+### 4. Employee Performance Analysis
+
+**Finding:** Employee performance varied across revenue attainment, unit attainment, protection attachment rates, and accessory sales metrics.
+
+**Recommendation:** Use employee-level performance data to identify coaching opportunities, recognize high performers, and encourage knowledge sharing across locations.
+
+## Business Impact
+
+This project demonstrates how business intelligence tools can transform simulated retail sales data into actionable insights. Through KPI tracking, performance benchmarking, and interactive reporting, the dashboard supports data-driven recommendations for improving retail operations.
+
+*Note: All findings are based on simulated data. Recommendations represent proposed business strategies rather than measured outcomes.*
+  
+
 ## Business Applications
 
 The dashboard supports retail management decisions by helping users identify performance gaps, prioritize coaching, compare store results, and track progress toward sales objectives.
