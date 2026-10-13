@@ -1,0 +1,10 @@
+
+# macOS files
+.DS_Store
+
+# Power BI temporary files
+*.pbitmp
+
+# Temporary files
+*.tmp
+*.bak
