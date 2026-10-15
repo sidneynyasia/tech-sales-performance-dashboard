@@ -4,7 +4,7 @@ An interactive Power BI analytics project examining nationwide retail sales perf
 
 ## Project Overview
 
-This project was developed to evaluate sales performance across retail stores, geographic regions, and individual employees. It provides an interactive reporting environment for comparing performance against targets, identifying trends, and highlighting opportunities for improvement.
+My project was developed to evaluate sales performance across retail stores, geographic regions, and individual employees. It provides an interactive reporting environment for comparing performance against targets, identifying trends, and highlighting opportunities for improvement.
 
 **Key objectives:**
 - Evaluate revenue and sales volume across regions and stores.
@@ -26,7 +26,7 @@ This project was developed to evaluate sales performance across retail stores, g
 
 ![Executive Overview](screenshots/executive_overeview.png)
 
-Provides a nationwide summary of revenue, units sold, protection attachment, revenue attainment, and overall performance, including regional comparisons and monthly sales trends.
+Provides a nationwide summary of revenue, units sold, protection attachment, revenue attainment, and overall performance, including regional comparisons and monthly sales trends! 
 
 ### 2. Regional & Store Performance
 
