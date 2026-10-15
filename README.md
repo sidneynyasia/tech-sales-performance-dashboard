@@ -99,4 +99,4 @@ Potential actions include targeted employee training, manager-led performance ob
 
 ## Data Disclaimer
 
-This is an independent portfolio project using fictional company information and simulated retail data. It does not represent actual company financial or employee performance records.
+This is an independent portfolio project using fictional company information and simulated retail data! It does not represent actual company financial or employee performance data at all.
